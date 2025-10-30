@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\bin\Debug\net8.0\CinemaApp.exe
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\bin\Debug\net8.0\CinemaApp.deps.json
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\bin\Debug\net8.0\CinemaApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\bin\Debug\net8.0\CinemaApp.dll
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\bin\Debug\net8.0\CinemaApp.pdb
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\obj\Debug\net8.0\CinemaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\obj\Debug\net8.0\CinemaApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\obj\Debug\net8.0\CinemaApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\obj\Debug\net8.0\CinemaApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\obj\Debug\net8.0\CinemaApp.sourcelink.json
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\obj\Debug\net8.0\CinemaApp.dll
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\obj\Debug\net8.0\refint\CinemaApp.dll
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\obj\Debug\net8.0\CinemaApp.pdb
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\obj\Debug\net8.0\CinemaApp.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c# project\its_project_1\CinemaApp\obj\Debug\net8.0\ref\CinemaApp.dll
